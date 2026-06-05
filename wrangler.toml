@@ -1,0 +1,12 @@
+name = "pokemon-album"
+main = "src/index.ts"
+compatibility_date = "2024-09-23"
+compatibility_flags = ["nodejs_compat"]
+
+[[d1_databases]]
+binding = "DB"
+database_name = "pokemon-album-db"
+database_id = "7855ef3c-9778-4e5b-8c52-67501b1b82f3"
+
+[vars]
+ENVIRONMENT = "development"
